@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "forbot234",
+  "compatibility_date": "2026-07-26",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "xcore-web"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
